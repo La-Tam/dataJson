@@ -1,5 +1,6 @@
-[		
-  {		
+{
+  "posts": [
+    {		
     "index": 0,		
     "saleName": "Bauer Rowe",		
     "saleDate": "2019/11/02",		
@@ -223,5 +224,13 @@
     "saleCost3": 2817.7,		
     "saleCost4": 7448.9,		
     "saleCost5": 7181.5		
-  }		
-]
+  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

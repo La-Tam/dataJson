@@ -226,7 +226,7 @@
     "saleCost5": 7181.5		
   }
   ],
-  "comments": [
+  "todos": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],

@@ -227,8 +227,8 @@
   }
   ],
   "todos": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "userId": 1, "id": 1, "title": "delectus aut autem", "completed": false },
+    { "userId": 1, "id": 1, "title": "delectus aut autem", "completed": false }
   ],
   "profile": {
     "name": "typicode"
